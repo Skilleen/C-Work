@@ -1,4 +1,4 @@
-//By Scott Killeen, 10093303, 12sjk11, and Jack Qiao 10098188 12xq4
+//By Scott Killeen
 //Creating Functions to be used by assn5Testing.c
 #include <stdio.h>
 #include <string.h>
